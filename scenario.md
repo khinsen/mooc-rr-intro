@@ -22,8 +22,17 @@ K: Depuis quelques années, nous entendons parler dans les médias d'une crise d
 > [name=AlexandreHocquet] est ce que ce point est redondant avec la vidéo d'intro du MOOC ?
 
 ## Images possibles
+
+Attention aux droits d'auteur. L'Inria est assez stricte sur ce point. En absence d'une license libre, il faut indiquer à qui il faut demander le droit d'utiliser l'image dans le MOOC.
+
+### Méthode scientifique
+- [Logo of Royal Society](https://en.wikipedia.org/wiki/Royal_Society#/media/File:The_Royal_Society_Coat_of_Arms.svg)
+
 ### Pompes à air
-https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg
-https://commons.wikimedia.org/wiki/File:ReplIca_of_the_Hooke-Boyle_Air_Pump.jpg
+- [Boyle's first air pump](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)
+- [Replica of the Hooke-Boyle Air Pump](https://commons.wikimedia.org/wiki/File:ReplIca_of_the_Hooke-Boyle_Air_Pump.jpg)
+
 ### Crise
-titres de journaux ? slides Konrad ?
+- titres de journaux ? slides Konrad ?
+- [Page Wikipedia](https://fr.wikipedia.org/wiki/Crise_de_la_reproductibilit%C3%A9)
+
