@@ -7,6 +7,23 @@ A: Bonjour...
 
 K: Depuis quelques années, nous entendons parler dans les médias d'une crise de reproductibilité qui sévirait dans plusieurs discplines scientifiques. Est-ce donc une question récente ?
 
+A: La reproductibilité et des concepts similaires sont tout aussi vieux que la science... Regardons comme exemple l'invention des pompes à air...
+
+K: On voit bien le principe de communiquer tous ce qu'il faut savoir pour refaire une expérience et confirmer son résultat. Ça semble une simple question de transparence : il suffit de prendre des notes détaillées et les rendre publiques.
+
+A: Ce n'est pas si simple... il y a le problème du savoir tacite par exemple...
+
+K: J'imagine bien que ces questions prennent des formes très différentes d'une discipline scientifique à l'autre. On a une meilleure prise sur ses échantillons en physique qu'en biologie, par exemple. Et en astronomie ou en archéologie, par exemple, on fait des observations qu'on ne peut même pas répéter.
+
+A: Tout à fait... La reproductibilité n'a pas la même importance dans toutes les disciplines... il y a d'autres techniques pour assurer la fiabilité...
+
+K: Revenons à la crise de la reproductibilité. Pourquoi maintenant? Sommes-nous moins rigoureux que nos ancêtres scientifiques ? Ou est-ce la science qui a changé ?
+
+A: Les méthodes de la recherche évoluent en permanence... Aujourd'hui on a les statistiques... et les calculs par ordinateur...
+
+K: Ce sont en effet les aspects informatiques qui sont le sujet de notre MOOC. Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
+
+
 ## Idées
 1 On parle beaucoup de reproductibilité dans les milieux scientifiques (et même au delà) depuis quelques années. On parle même de "crise", suggérant qu'il y a un problème, à la fois grave, et actuel. confiance dans la science.
 
@@ -20,11 +37,14 @@ K: Depuis quelques années, nous entendons parler dans les médias d'une crise d
 
 5 Dans ce mooc, il va être question de pratiques qui aident à la repro qui ont une longue histoire comme la prise de notes (module 1) et en quoi le balisage léger et le versioning en particulier sont devenus des outils qui viennent de l'ordinateur mais qui peuvent être utiles à tout chercheur. Il va être aussi question de document computationnel (module 2) et d'analyse replicable (module 3) pour étendre au calcul ce concept de prise de notes 
 > [name=AlexandreHocquet] est ce que ce point est redondant avec la vidéo d'intro du MOOC ?
+> [name=khinsen] Oui, on le dit déjà, et en plus c'est dit sur la page d'info du MOOC, avant l'inscription.
 
 ## Images possibles
 
 Attention aux droits d'auteur. L'Inria est assez stricte sur ce point. En absence d'une license libre, il faut indiquer à qui il faut demander le droit d'utiliser l'image dans le MOOC.
-
+> [name=AlexandreHocquet]oui, les images que j'ai trouvées de pompes à air viennet de wikimedia commons donc pour elles, ça va, mais ça peut poser un problème sur les "gros titres" médiatisant la crise par exemple
+> [name=khinsen]C'est pour ça que j'ai mis le rappel, surtout pour moi-même. Dans mes slides, je mets facilement des extraits de papiers, mais pour le MOOC, il faut être plus prudent.
+> 
 ### Méthode scientifique
 - [Logo of Royal Society](https://en.wikipedia.org/wiki/Royal_Society#/media/File:The_Royal_Society_Coat_of_Arms.svg)
 
