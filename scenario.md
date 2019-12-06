@@ -1,4 +1,7 @@
 # Vidéo d'introduction au MOOC RR
+
+> [name=Sabrina] Il n'y a rien sur les enjeux de la RR pour les SHS dans ce texte ni dans le fichier Markdown actuel. Ce serait bien au moins de dire lors de l'entretien que la séquence 1.6 aborde la problématique de la reproductibilité en SHS pour ne pas perdre ce public dès le début.
+
 ## Dialogue
 
 K: Bienvenue à notre MOOC sur la Recherche Reproductible. Les cours et exercices de ce MOOC sont très pragmatiques : leur objectif est de vous montrer les bonnes pratiques et des bons outils informatiques pour rendre vos recherches plus transparentes. Mais avant de mettre la main à la pâte, il est important de comprendre pourquoi notre sujet est si important. Pour éclaircir cette question, nous avons invité Alexandre Hocquet, historien des sciences.
