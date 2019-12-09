@@ -1,36 +1,49 @@
 # Vidéo d'introduction au MOOC RR
 
 > [name=Sabrina] Il n'y a rien sur les enjeux de la RR pour les SHS dans ce texte ni dans le fichier Markdown actuel. Ce serait bien au moins de dire lors de l'entretien que la séquence 1.6 aborde la problématique de la reproductibilité en SHS pour ne pas perdre ce public dès le début.
+> 
+> [name=AlexandreHocquet]Je laisse Konrad dire ce qu'il en pense mais de mon côté, je vois les choses comme ça (mais on peut modifier pour prendre en compte ce point) :
+> [name=AlexandreHocquet] l'expression "problématique de la reproductibilité en SHS" me gêne, parce qu'elle semble impliquer une dichotomie entre "sciences dures"  (STEM) et SHS.  Je trouve ça à la fois incorrect et contre-productif. Incorrect, parce que parler de "problématique de la reproductibilité en SHS" laisse croire qu'il existe une unité de la reproductibilité à l'intérieur des STEM et à l'intérieur des SHS (pas du tout et c'est un des points de cette vidéo), et contre productif parce que cette narration peut laisser au "public SHS" une impression de "retard" des SHS vis à vis des STEM en termes de bonnes pratiques,
+> [name=AlexandreHocquet] le parti pris de cette intervention, pour "ne pas perdre le public SHS dès le début" est de parler de choses qui concernent tout le monde : dire que les enjeux de reproductibilité sont complexes aussi bien en STEM qu'en SHS en mentionnant des exemples dans des disciplines diverses, dire que certaines activités (comme la prise de notes) évoluent pour tout le monde (et que le MOOC va parler de ça), dire que d'autres vertus épistémiques peuvent avoir parfois plus d'importance que la reproductibilité.
+> [name=AlexandreHocquet] Cette vidéo participe à cette tentative d'intéresser "le public des SHS" en apportant une contextualisation historique qui est censée relativiser la reproductibilité en tant que "golden standard imposé par les STEM aux SHS". Peut être ce qu'on peut faire, pour aller dnas ton sens, c'est une phrase à la fin pour dire que ça concerne plein de domaines scientifiques très divers, et qu'on va voir des applications dans X (exemple dans STEM) et Y (exemple dans SHS) ?
+> [name=Konrad Hinsen] C'est mon avis aussi. On devrait mentionner les SHS pour montrer qu'on y pense, mais pour le reste plus insister sur la diversité de la question que sur un découpage des disciplines en catégories. En relisant le texte actuel, je trouve que les références à l'archéologie et à l'anthropologie devrait suffir pour montrer qu'on n'a pas une vue bornée "sciences dures".
+> 
 
 ## Titre de la vidéo
-La crise de la reproductibilté - mythe ou réalité ?
-> [name=Konrad Hinsen] Juste une première idée, surtout pour qu'on n'oublie pas de proposer un titre.
+La crise de la reproductibilté
 
 ## Dialogue
 
-K: Bienvenue à notre MOOC sur la Recherche Reproductible. Les cours et exercices de ce MOOC sont très pragmatiques : leur objectif est de vous montrer les bonnes pratiques et des bons outils informatiques pour rendre vos recherches plus transparentes. Mais avant de mettre la main à la pâte, il est important de comprendre pourquoi notre sujet est si important. Pour éclaircir cette question, nous avons invité Alexandre Hocquet, historien des sciences.
+K: Bienvenue à notre MOOC sur la Recherche Reproductible. Les cours et exercices de ce MOOC sont très pragmatiques : leur objectif est de vous montrer les bonnes pratiques et des bons outils informatiques pour rendre vos recherches plus transparentes. Mais avant de mettre la main à la pâte, il est important de comprendre pourquoi notre sujet est si important. Pour éclaircir cette question, nous avons invité Alexandre Hocquet, historien des sciences. Dans ce lieu historique, où Claude Bernard suivait les cours de René Laennec au 19ème siècle, nous allons évoquer comment le besoin de transparence s'est exprimé au cours de l'histoire et à travers les differentes disciplines.
 
-> [name=Konrad Hinsen] mentionner le lieu historique (amphi ou Claude Bernard a suivi les cours de Laënnec)
-
-A: Bonjour...
+A: Bonjour !
 
 K: Depuis quelques années, nous entendons parler dans les médias d'une crise de reproductibilité qui sévirait dans plusieurs discplines scientifiques. Est-ce donc une question récente ?
 
-A: La reproductibilité et des concepts similaires sont tout aussi vieux que la science... Regardons comme exemple l'invention des pompes à air...
+A: Pas du tout ! Regardons comme exemple l'invention des pompes à air. C'était le cyclotron du 17è siècle ! Le fleuron de la science expérimentale. L'histoire, telle qu'elle est racontée par les historiens Shapin et Schaffer, permet de comprendre les enjeux de reproductibilité et légitimité. Il y a d'abord eu Von Guericke, qui réalisait des démonstrations de vide : ses expériences étonnaient dans les cours d'Europe, et il en tirait un prestige pour sa carrière de diplomate. Evidemment, son savoir faire avait besoin d'être reproductible, pour éviter le bide, mais il n'avait aucun intérêt à ce que quelqu'un d'autre puisse le reproduire : Il tirait sa légitimité du succès de ces spectacles.
+Un peu plus tard, Robert Boyle a essayé les pompes à air en verre : beaucoup plus fragile, mais aux possibilités d'expériences plus nombreuses. Pour la légitimité, Boyle ne s'appuyait pas sur le spectacle, mais sur des témoins bien choisis. Et bien choisi, ça veut dire bien né : Si un *gentleman* en atteste, alors c'est reproductible. C'est comme ça qu'est née la première société savante, la Royal Society of London. Et pour diffuser cette légitimité, ils ont eu l'idée lumineuse du "témoin virtuel" : consigner par écrit les détails, attestés par les gentlemen. C'est la naissance du concept de publication.
+
 
 K: On voit bien le principe de communiquer tous ce qu'il faut savoir pour refaire une expérience et confirmer son résultat. Ça semble une simple question de transparence : il suffit de prendre des notes détaillées et les rendre publiques.
 
-A: Ce n'est pas si simple... il y a le problème du savoir tacite par exemple...
+A: L'ironie est que ces publications (louées comme l'avènement de la science expérimentale, la révolution scientifique, LA méthode scientifique) étaient effectivement à la base de la construction de la légitimité (une technique littéraire) mais ne garantissaient en rien la reproductibilité : De fait, Huyghens, en France à la même époque, a essayé sans succès de reproduire une pompe à air de Boyle. Personne n'y est jamais parvenu sans avoir à ses côtés une pompe à air fonctionnelle ET la personne l'ayant conçue. C'est que, même dans la recherche la mieux décrite, il existe toujours une part de *tacit knowledge*, c'est à dire de savoir qu'on ne sait pas expliciter, et impossible à formaliser. Et ce, au 17e comme au 20e siècle : L'exemple du Laser TEA, tel que raconté par le sociologue Collins en est l'archétype : Un Laser créé par une équipe Américaine ne peut être reproduit par des Brittaniques (malgré toute la bonne volonté des Américains) jusqu'à ce qu'un Américain traverse l'Atlantique pour le reconstruire lui même.
 
-K: J'imagine bien que ces questions prennent des formes très différentes d'une discipline scientifique à l'autre. On a une meilleure prise sur ses échantillons en physique qu'en biologie, par exemple. Et en astronomie ou en archéologie, par exemple, on fait des observations qu'on ne peut même pas répéter.
 
-A: Tout à fait... La reproductibilité n'a pas la même importance dans toutes les disciplines... il y a d'autres techniques pour assurer la fiabilité...
+K: J'imagine bien que ces questions prennent des formes très différentes d'une discipline scientifique à l'autre. On a une meilleure prise sur ses échantillons en physique qu'en biologie. Et en astronomie ou en archéologie, par exemple, on fait des observations qu'on ne peut même pas répéter.
+
+A: Oui, une des difficultés de la notion de reproductibilité, c'est arriver à définir consensuellement ce qui vaut reproduction dans tel ou tel cas : Les enjeux ne sont pas  les mêmes d'un domaine à l'autre. Cherche-ton à détecter le signal des ondes gravitationnlles dans le bruit des vibrations de quelques mm d'amplitude sur des bras métalliques de plusieurs km de long ? Cherche-t-on à rendre des populations de souris les plus significatives possibles mais suivent elles le même régime alimentaire que dans l'animalerie d'un autre laboratoire ? 
+Pire, il existe des domaines ou la notion même de reproductibilité est difficilement cernable : comment définir ce qui doit être reproductible dans une expérience qui consiste à observer les réponses de cerveaux à des stimuli ?   qu'est ce qu'être reproductible dans des fouilles archéologiques, où les objets d'étude sont forcément exceptionnels ? ou en anthropologie, où l'activité scientifique elle même consiste pour le chercheur à interagir avec son objet d'étude ?
+Pour cette dernière, la fiabilité de la discipline est imaginée à partir d'autres vertus que la reproductibilité, comme par exemple la réflexivité :  le questionnement du rapport entre le chercheur et son objet d'étude pour permettre une analyse pertinente de ses conditions et résultats de recherche.
 
 K: Revenons à la crise de la reproductibilité. Pourquoi maintenant? Sommes-nous moins rigoureux que nos ancêtres scientifiques ? Ou est-ce la science qui a changé ?
 
-A: Les méthodes de la recherche évoluent en permanence... Aujourd'hui on a les statistiques... et les calculs par ordinateur...
+A: Ce n'est pas parce que la reproductibilité est une question complexe et multiforme qu'il ne faut pas essayer d'avoir les meilleures pratiques de recherche possible, évidemment.
+La "crise" corrrespond d'une part à la peur de la perte de la légitimité de l'activité scientifique. De ce point de vue, le mouvement de contestation "Open Acces" contre les grands éditeurs, participe au même mouvement d'exigence de transparence. Les deux crises concomittantes se rejoignent dans la critique du peer-reviewing par exemple.
+Ceci dit, l'activité scientifique se transforme aussi avec les outils à la disposition du chercheur. La prise de notes par exemple est un point essentiel. Les chimistes savent très bien qu'ECRIRE leur objet de recherche participe à sa définition, l'historienne Klein appelle ça les paper-tools.
+L'irruption de l'ordinateur quotidien provoque à la fois de nouveaux problèmes et de nouvelles possibilités : Comment écrire la chimie sur ordinateur ?  Le Chemical Markup Language pose le problème du standard des formats.
+Enfin, la "crise" se décline souvent sur le mode de la référence à "l'Open" du Software : ce n'est pas qu'une métaphore, certaines pratiques comme le versioning sont importées du monde du logiciel.
 
-K: Ce sont en effet les aspects informatiques qui sont le sujet de notre MOOC. Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
+K: Ce sont en effet les aspects informatiques dans la documentation transparente de la recherche qui sont notre sujet principal ici. Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
 
 
 ## Idées
@@ -60,8 +73,14 @@ Attention aux droits d'auteur. L'Inria est assez stricte sur ce point. En absenc
 ### Pompes à air
 - [Boyle's first air pump](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)
 - [Replica of the Hooke-Boyle Air Pump](https://commons.wikimedia.org/wiki/File:ReplIca_of_the_Hooke-Boyle_Air_Pump.jpg)
+- [Luftpumpentaler](https://de.wikipedia.org/wiki/Luftpumpentaler#/media/Datei:Luftpumpentaler_von_1702,_Braunschweig-Wolfenb%C3%BCttel.JPG) (pièce d'argent commemorative de 1702)
 
 ### Crise
 - titres de journaux ? slides Konrad ?
 - [Page Wikipedia](https://fr.wikipedia.org/wiki/Crise_de_la_reproductibilit%C3%A9)
 
+## Références à mettre dans les ressources du module
+
+- Steven Shapin and Simon Schaffer [1985], [Leviathan and the air pump](https://en.wikipedia.org/wiki/Leviathan_and_the_Air-Pump)
+- Harry Collins [1992], [Changing order](https://www.press.uchicago.edu/ucp/books/book/chicago/C/bo3623576.html) (2nd edition), pour l'histoire du [laser TEA](https://en.wikipedia.org/wiki/TEA_laser)
+- Ursula Klein [2019], [Paper tools](http://edition-open-access.de/proceedings/11/13/index.html), in ["Culture and Cognition"](http://edition-open-access.de/proceedings/11/toc.html), eds Jürgen Renn and Matthias Schemmel
