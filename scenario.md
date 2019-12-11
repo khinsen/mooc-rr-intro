@@ -3,7 +3,8 @@
 ## Discussion
 
 ### Open Access
-> [name=Sabrina] "De ce point de vue, le mouvement de contestation “Open Access” contre les grands éditeurs, participe au même mouvement d’exigence de transparence. " c'est sans doute un point de vue biaisé de ma part mais ça me semble un peu hardi de présenter le mouvement de l'open access ainsi, surtout avec la diversité des modèles économiques et des réalités éditoriales que le terme englobe. On est parfois très très loin de toute forme de contestation.**+ 1 (Marie-Hélène)**
+> [name=Sabrina] "De ce point de vue, le mouvement de contestation “Open Access” contre les grands éditeurs, participe au même mouvement d’exigence de transparence. " c'est sans doute un point de vue biaisé de ma part mais ça me semble un peu hardi de présenter le mouvement de l'open access ainsi, surtout avec la diversité des modèles économiques et des réalités éditoriales que le terme englobe. On est parfois très très loin de toute forme de contestation.
+> [name=MaHe] +1 
 > [name=Laurence] Je ne suis pas d'accord. Les modèles économiques sont arrivés après, comme toujours. Si on regarde la déclaration de Berlin, il y a bien une exigence de transparence ([Lien vers la déclaration de Berlin](https://openaccess.mpg.de/Berlin-Declaration)) 
 > [name=Konrad Hinsen] Je suis d'accord avec Laurence. Il est vrai que le paysage de l'Open Access aujourd'hui est complexe et les acteurs divers et variés poursuivent des objectifs pas toujours clairs et pas toujours dans l'intérêt de la transparence. Mais la transparence reste le point de départ du mouvement.
 
@@ -17,6 +18,7 @@
 > [name=AlexandreHocquet] Cette vidéo participe à cette tentative d'intéresser "le public des SHS" en apportant une contextualisation historique qui est censée relativiser la reproductibilité en tant que "golden standard imposé par les STEM aux SHS". Peut être ce qu'on peut faire, pour aller dnas ton sens, c'est une phrase à la fin pour dire que ça concerne plein de domaines scientifiques très divers, et qu'on va voir des applications dans X (exemple dans STEM) et Y (exemple dans SHS) ? 
 > [name=Konrad Hinsen] C'est mon avis aussi. On devrait mentionner les SHS pour montrer qu'on y pense, mais pour le reste plus insister sur la diversité de la question que sur un découpage des disciplines en catégories. En relisant le texte actuel, je trouve que les références à l'archéologie et à l'anthropologie devrait suffir pour montrer qu'on n'a pas une vue bornée "sciences dures".
 > 
+> [name=Christophe] Je suis d'accord.
 > [name=AlexandreHocquet] suite à la visio :penser à ajouter des exemples de SHS quieffectivemetn sont concernées apr du quanti
 > [name=Laurence] Et aussi trouver un exemple dans le domaine de la littérature par exemple
 > 
@@ -32,14 +34,30 @@ A: Bonjour !
 
 K: Depuis quelques années, nous entendons parler dans les médias d'une crise de reproductibilité qui sévirait dans plusieurs discplines scientifiques. Est-ce donc une question récente ?
 
-A: Pas du tout ! Regardons comme exemple l'invention des pompes à air. C'était le cyclotron du 17è siècle ! Le fleuron de la science expérimentale. L'histoire, telle qu'elle est racontée par les historiens Shapin et Schaffer, permet de comprendre les enjeux de reproductibilité et légitimité. Il y a d'abord eu Von Guericke, qui réalisait des démonstrations de vide : ses expériences étonnaient dans les cours d'Europe, et il en tirait un prestige pour sa carrière de diplomate. Evidemment, son savoir faire avait besoin d'être reproductible, pour éviter le bide, mais il n'avait aucun intérêt à ce que quelqu'un d'autre puisse le reproduire : Il tirait sa légitimité du succès de ces spectacles.
-Un peu plus tard, Robert Boyle a essayé les pompes à air en verre : beaucoup plus fragile, mais aux possibilités d'expériences plus nombreuses. Pour la légitimité, Boyle ne s'appuyait pas sur le spectacle, mais sur des témoins bien choisis. Et bien choisi, ça veut dire bien né : Si un *gentleman* en atteste, alors c'est reproductible. C'est comme ça qu'est née la première société savante, la Royal Society of London. Et pour diffuser cette légitimité, ils ont eu l'idée lumineuse du "témoin virtuel" : consigner par écrit les détails, attestés par les gentlemen. C'est la naissance du concept de publication.
+A: Pas du tout ! Regardons comme exemple l'invention des pompes à air. C'était le cyclotron du 17è siècle ! Le fleuron de la science expérimentale.
 
+K: Tu parles des démonstration qu'Otto van Guericke faisait dans toute l'Europe ? Les deux hémisphères collées ensemble par la pression de l'air ambiant ?
+>  Image: [Luftpumpentaler](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)
+> 
+A: Tout à fait. L'histoire, telle qu'elle est racontée par les historiens Shapin et Schaffer, permet de comprendre les enjeux de reproductibilité et légitimité. Von Guericke tirait un prestige de ses démonstrations pour sa carrière de diplomate. Evidemment, son savoir faire avait besoin d'être reproductible, pour éviter le bide, mais il n'avait aucun intérêt à ce que quelqu'un d'autre puisse le reproduire : Il tirait sa légitimité du succès de ces spectacles.
 
-K: On voit bien le principe de communiquer tout ce qu'il faut savoir pour refaire une expérience et confirmer son résultat. Ça semble une simple question de transparence : il suffit de prendre des notes détaillées et les rendre publiques.
+K: Et pourtant, d'autres ont réussi à construire des pompes à air, car nous en avons encore aujourd'hui.
+> Image: [Boyle's first air pump](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)
+> 
+A: En effet. Un peu plus tard, Robert Boyle a essayé les pompes à air en verre : beaucoup plus fragiles, mais aux possibilités d'expériences plus nombreuses. Pour la légitimité, Boyle ne s'appuyait pas sur le spectacle, mais sur des témoins bien choisis. Et bien choisi, ça veut dire bien né : Si un *gentleman* en atteste, alors c'est reproductible. C'est comme ça qu'est née la première société savante, la Royal Society of London. Et pour diffuser cette légitimité, ils ont eu l'idée lumineuse du "témoin virtuel" : consigner par écrit les détails, attestés par les gentlemen. C'est la naissance du concept de publication.
 
-A: L'ironie est que ces publications (louées comme l'avènement de la science expérimentale, la révolution scientifique, LA méthode scientifique) étaient effectivement à la base de la construction de la légitimité (une technique littéraire) mais ne garantissaient en rien la reproductibilité : De fait, Huyghens, en France à la même époque, a essayé sans succès de reproduire une pompe à air de Boyle. Personne n'y est jamais parvenu sans avoir à ses côtés une pompe à air fonctionnelle ET la personne l'ayant conçue. C'est que, même dans la recherche la mieux décrite, il existe toujours une part de *tacit knowledge*, c'est à dire de savoir qu'on ne sait pas expliciter, et impossible à formaliser. Et ce, au 17e comme au 20e siècle : L'exemple du Laser TEA, tel que raconté par le sociologue Collins en est l'archétype : Un Laser créé par une équipe Américaine ne peut être reproduit par des Brittaniques (malgré toute la bonne volonté des Américains) jusqu'à ce qu'un Américain traverse l'Atlantique pour le reconstruire lui même.
+> Image: [Logo of Royal Society](https://en.wikipedia.org/wiki/Royal_Society#/media/File:The_Royal_Society_Coat_of_Arms.svg)
+> [name=Konrad] C'est bizarre que la Royal Society met ["On ne croit personne sur parole"](https://en.wikipedia.org/wiki/Nullius_in_verba) sur son blason tout en faisant confiance aux gentlemen !
+> 
+K: On reconnaît bien le principe de communiquer tout ce qu'il faut savoir pour refaire une expérience, même si aujourd'hui ce sont les pairs qui sont censés confirmer plutôt que les gentlemen. Ça semble une simple question de transparence : il suffit de prendre des notes détaillées et les rendre publiques.
 
+A: L'ironie est que ces publications (louées comme l'avènement de la science expérimentale, la révolution scientifique, LA méthode scientifique) étaient effectivement à la base de la construction de la légitimité (une technique littéraire) mais ne garantissaient en rien la reproductibilité : De fait, Huyghens, en France à la même époque, a essayé sans succès de reproduire une pompe à air de Boyle. Personne n'y est jamais parvenu sans avoir à ses côtés une pompe à air fonctionnelle ET la personne l'ayant conçue. C'est que, même dans la recherche la mieux décrite, il existe toujours une part de *tacit knowledge*, c'est à dire de savoir qu'on ne sait pas expliciter, et impossible à formaliser.
+
+K: Est-ce encore le cas aujourd'hui ?
+
+A: Ça n'a pas changé, comme le montre l'exemple du laser TEA, tel que raconté par le sociologue Collins : un laser créé par une équipe Américaine ne peut être reproduit par des Brittaniques (malgré toute la bonne volonté des Américains) jusqu'à ce qu'un Américain traverse l'Atlantique pour le reconstruire lui même.
+
+> Image: [TEA laser circuit](https://en.wikipedia.org/wiki/TEA_laser#/media/File:TEA-Laser-Circuit.jpg) (ça fait bien la transition à la modernité)
 
 K: J'imagine bien que ces questions prennent des formes très différentes d'une discipline scientifique à l'autre. On a une meilleure prise sur ses échantillons en physique qu'en biologie. Et en astronomie ou en archéologie, par exemple, on fait des observations qu'on ne peut même pas répéter.
 
@@ -47,15 +65,43 @@ A: Oui, une des difficultés de la notion de reproductibilité, c'est arriver à
 Pire, il existe des domaines où la notion même de reproductibilité est difficilement cernable : comment définir ce qui doit être reproductible dans une expérience qui consiste à observer les réponses de cerveaux à des stimuli ?   qu'est ce qu'être reproductible dans des fouilles archéologiques, où les objets d'étude sont forcément exceptionnels ? ou en anthropologie, où l'activité scientifique elle même consiste pour le chercheur à interagir avec son objet d'étude ?
 Pour cette dernière, la fiabilité de la discipline est imaginée à partir d'autres vertus que la reproductibilité, comme par exemple la réflexivité :  le questionnement du rapport entre le chercheur et son objet d'étude pour permettre une analyse pertinente de ses conditions et résultats de recherche.
 
+K: Quid des domaines où la notion d'observation où d'expériences est complètement absente, comme l'histoire ou les études littéraires, dont les objets d'étude sont des documents ?
+
+A: ...
+
 K: Revenons à la crise de la reproductibilité. Pourquoi maintenant? Sommes-nous moins rigoureux que nos ancêtres scientifiques ? Ou est-ce la science qui a changé ?
 
-A: Ce n'est pas parce que la reproductibilité est une question complexe et multiforme qu'il ne faut pas essayer d'avoir les meilleures pratiques de recherche possible, évidemment.
-La "crise" corrrespond d'une part à la peur de la perte de la légitimité de l'activité scientifique. De ce point de vue, le mouvement de contestation "Open Access" contre les grands éditeurs, participe au même mouvement d'exigence de transparence. Les deux crises concomittantes se rejoignent dans la critique du peer-reviewing par exemple.
-D'autre part, l'activité scientifique se transforme aussi avec les outils à la disposition du chercheur. La prise de notes par exemple est un point essentiel. Les chimistes savent très bien qu'ECRIRE leur objet de recherche participe à sa définition, l'historienne Klein appelle ça les paper-tools.
-L'irruption de l'ordinateur quotidien provoque à la fois de nouveaux problèmes et de nouvelles possibilités : Comment écrire la chimie sur ordinateur ?  Le Chemical Markup Language pose le problème du standard des formats.
+A: Ce n'est pas parce que la reproductibilité est une question complexe et multiforme qu'il ne faut pas essayer d'avoir les meilleures pratiques de recherche possibles, évidemment.
+La "crise" corrrespond d'une part à la peur de la perte de la légitimité de l'activité scientifique. De ce point de vue, le mouvement de contestation "Open Access" contre les grands éditeurs, participe au même mouvement d'exigence de transparence. Les deux crises concomittantes se rejoignent dans la critique du peer-reviewing par exemple
+> [name=MaHe] De même que la notion de "peur de la perte de la légitimité de l'activité scientifique" n'est pas évidente (cela ne me parle pas par exemple) est-ce qu'on pourrait développer plus cette partie (en quelques phrases) ? et dire en quoi consiste la critique du per-reviewing ? à quoi c'est du ? (abondance des publis ? et pratique des editeurs ?) 
+> [name=Christophe] Tu peux penser à « la vache folle » et à l'épidémie de Creutzfeld-Jacob qui nous était prédite, ou aux pluies acides ; souviens toi, dans le milieu des années 80 « on » nous disait que les forêts allaient disparaitre, on pourrait multiplier les exemples (sang contaminé, [ruines de Séchilienne](https://fr.wikipedia.org/wiki/Ruines_de_S%C3%A9chilienne)). Que le citoyen λ se dise que les gens qu'il paie avec ses impôts ou ses donts ont parfois une forte tendance à déconner, est, de mon point de vue, compréhensible et c'est cela que j'entends par « perte de légitimité ». Qu'en à la source, je la situe clairement dans la pression pour publier et une tendance générale de la société qui ne reconnaît plus que les « gagneurs » (pourquoi Villani est-il le seul médaillé Fields que tout le monde connaît ? la France ne manque pourtant pas de lauréats de ce prix).
+> [name=Konrad] Pour répondre au sujet de la perte de légitimité, le débat en cours sur le changement climatique en est un bon exemple. Les "climatosceptiques" contestent tout simplement les conclusions des climatologues comme erronnées ou au moins peu fiables.  Et les "défenseurs de la science" retorquent par des arguments d'autorité et de majorité ("tous les climatologues sont d'accord que..."). C'est la méthode scientifique qui disparaît complètement du discours des deux côtés. Ça a peut-être toujours été le cas pour les discours publics, car très peu de gens ont la compétence nécessaire pour juger eux-mêmes.
+> [name=AlexandreHocquet] il y aussi un autre exemple actuel : c'est la crise dans les essais cliniques accusés de pouvoir dire tout et son contraire (OGM, glyphosate en ce qui concenre les controverses), et d'être soupçonnés de biais par leur liens avec l'industrie. Mais pour aller dans le sens de @MaHe peut être devrions nous citer UN exemple pour fixer les idées? Si c'est le cas, j'aurais tendance à choisir le climat, le plus parlant selon moi.
+> [name=Christophe] Sauf que le gros du public ne vera pas le problème, puisque tout le monde, ou presque, accepte le « concensus » sensé être la « science qui parle » ; je pense qu'il faudrait trouver un exemple à la fois récent et où « la fin de l'histoire » est connue (dans le cas du climat, aucun de nous ne sera là dans 100 ans pour voir si la température a augmenté de 3 degrés, de 0 ou de -2) ; dans le cas la vache folle, on avait de vraies « prédictions » avec 15000 morts par an si je me souviens bien et on en est (heureusement) très loin.
+> [name=Konrad] Pas besoin d'attendre 100 ans. Des vieux modèles climatiques d'il y a 50 ans ont déjà prédit une hausse des températures moyennes qui est assez proche de ce qu'on a observé par la suite. J'ai même vu l'affirmation que la première prédiction d'une hausse de températures remonte à Arrhenius (19ème siècle), mais je n'ai pas réussi à trouver une référence plus précise.
+> 
+> [name=AlexandreHocquet] Pour le peer-reviewing, le point commun entre "critique Open Access" et "crise de la reproductibilité", c'est que le peer-reviewing tel qu'il existe actuellement est critiqué comme ayant beaucoup de difficultés pour garantir la reproductibilité et la transparence 
+ 
+D'autre part, l'activité scientifique se transforme aussi avec les outils à la disposition du chercheur. La prise de notes par exemple est un point essentiel.
+
+K: ... auquel nous dédions la première partie de notre MOOC ! Les nouveaux outils informatiques offrent en effet des nouveaux possibilités dont les chercheurs peuvent tirer des bénéfices importants.
+
+A: Pour illustrer, les chimistes savent très bien qu'ECRIRE leur objet de recherche participe à sa définition, l'historienne Klein appelle ça les paper-tools.
+> [name=Konrad] N'est-ce pas la même idée déjà évoquée par Leibniz, que les notations influencent la pensée ?
+
+> Image: [water molecule](https://en.wikipedia.org/wiki/Properties_of_water#/media/File:H2O_2D_labelled.svg)
+
+L'irruption de l'ordinateur quotidien provoque à la fois de nouveaux problèmes et de nouvelles possibilités : Comment écrire la chimie sur ordinateur ?
+
+> Image: [water.cml](https://github.com/cryos/avogadro/blob/master/fragments/water.cml)
+
+Le Chemical Markup Language pose le problème du standard des formats.
+> [name=Konrad] Je me demande si c'est très parlant pour notre audience de mentionner CML. Personnellement je connais très bien ce sujet, ayant participé à un groupe de travail qui voulait adapter CML aux simulations moléculaires (ce qui était un échec pour des raisons sociales/politiques), mais je soupçonne que même la plupart des chimistes ne savent pas apprécier ce commentaire.
+
 Enfin, la "crise" se décline souvent sur le mode de la référence à "l'Open" du Software : ce n'est pas qu'une métaphore, certaines pratiques comme le versioning sont importées du monde du logiciel.
 
 K: Ce sont en effet les aspects informatiques dans la documentation transparente de la recherche qui sont notre sujet principal ici. Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
+
 
 
 ## Idées
