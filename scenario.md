@@ -36,14 +36,14 @@ K: Depuis quelques années, nous entendons parler dans les médias d'une crise d
 
 A: Pas du tout ! Regardons comme exemple l'invention des pompes à air. C'était le cyclotron du 17è siècle ! Le fleuron de la science expérimentale.
 
-K: Tu parles des démonstration qu'Otto van Guericke faisait dans toute l'Europe ? Les deux hémisphères collées ensemble par la pression de l'air ambiant ?
->  Image: [Luftpumpentaler](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)
+K: Tu parles des démonstration qu'Otto van Guericke faisait dans toute l'Europe ? Les deux hémisphères collées ensemble par la pression de l'air ambiant, que même la force de deux chevaux ne pouvait pas séparer ?
+>  Image: [Luftpumpentaler](https://de.wikipedia.org/wiki/Luftpumpentaler#/media/Datei:Luftpumpentaler_von_1702,_Braunschweig-Wolfenb%C3%BCttel.JPG)
 > 
 A: Tout à fait. L'histoire, telle qu'elle est racontée par les historiens Shapin et Schaffer, permet de comprendre les enjeux de reproductibilité et légitimité. Von Guericke tirait un prestige de ses démonstrations pour sa carrière de diplomate. Evidemment, son savoir faire avait besoin d'être reproductible, pour éviter le bide, mais il n'avait aucun intérêt à ce que quelqu'un d'autre puisse le reproduire : Il tirait sa légitimité du succès de ces spectacles.
 
 K: Et pourtant, d'autres ont réussi à construire des pompes à air, car nous en avons encore aujourd'hui.
 > Image: [Boyle's first air pump](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)
-> 
+
 A: En effet. Un peu plus tard, Robert Boyle a essayé les pompes à air en verre : beaucoup plus fragiles, mais aux possibilités d'expériences plus nombreuses. Pour la légitimité, Boyle ne s'appuyait pas sur le spectacle, mais sur des témoins bien choisis. Et bien choisi, ça veut dire bien né : Si un *gentleman* en atteste, alors c'est reproductible. C'est comme ça qu'est née la première société savante, la Royal Society of London. Et pour diffuser cette légitimité, ils ont eu l'idée lumineuse du "témoin virtuel" : consigner par écrit les détails, attestés par les gentlemen. C'est la naissance du concept de publication.
 
 > Image: [Logo of Royal Society](https://en.wikipedia.org/wiki/Royal_Society#/media/File:The_Royal_Society_Coat_of_Arms.svg)
@@ -79,6 +79,7 @@ La "crise" corrrespond d'une part à la peur de la perte de la légitimité de l
 > [name=AlexandreHocquet] il y aussi un autre exemple actuel : c'est la crise dans les essais cliniques accusés de pouvoir dire tout et son contraire (OGM, glyphosate en ce qui concenre les controverses), et d'être soupçonnés de biais par leur liens avec l'industrie. Mais pour aller dans le sens de @MaHe peut être devrions nous citer UN exemple pour fixer les idées? Si c'est le cas, j'aurais tendance à choisir le climat, le plus parlant selon moi.
 > [name=Christophe] Sauf que le gros du public ne vera pas le problème, puisque tout le monde, ou presque, accepte le « concensus » sensé être la « science qui parle » ; je pense qu'il faudrait trouver un exemple à la fois récent et où « la fin de l'histoire » est connue (dans le cas du climat, aucun de nous ne sera là dans 100 ans pour voir si la température a augmenté de 3 degrés, de 0 ou de -2) ; dans le cas la vache folle, on avait de vraies « prédictions » avec 15000 morts par an si je me souviens bien et on en est (heureusement) très loin.
 > [name=Konrad] Pas besoin d'attendre 100 ans. Des vieux modèles climatiques d'il y a 50 ans ont déjà prédit une hausse des températures moyennes qui est assez proche de ce qu'on a observé par la suite. J'ai même vu l'affirmation que la première prédiction d'une hausse de températures remonte à Arrhenius (19ème siècle), mais je n'ai pas réussi à trouver une référence plus précise.
+> [name=Christophe] Et ces modèles expliquent aussi pourquoi le réchauffement actuel a commencé il y a 12000 ans (fin du Würm) ? La contreverse principale remonte au moins au début du XIXe avec d'un coté les tenants de la théorie astronomique (Delambre, Adhémar, Croll, Milancovic) et de l'autre, ceux de la théorie physico-chimique (Fourier, Pouillet, Tyndall, Arrhenius, Chamberlin). Pour un phénomène aussi « complexe » (au sens propre du terme) dont la dynamique est visiblement dépendante de nombreux facteurs (dont une partie doit encore nous échapper) et qui court depuis si longtemps, il est toujours possible de trouver une morceau de la courbe qui est bien ajusté par l'un des modèles simplifiés (mono-factoriel) à disposition, ou dans créer un pour répondre au besoin. Si je compare l'activité solaire (estimée par le nombre de tâches observées : <https://earthobservatory.nasa.gov/features/SORCE/sorce_03.php>) avec la température moyenne depuis le début du XVIIe, l'accord n'est pas mauvais du tout...
 > 
 > [name=AlexandreHocquet] Pour le peer-reviewing, le point commun entre "critique Open Access" et "crise de la reproductibilité", c'est que le peer-reviewing tel qu'il existe actuellement est critiqué comme ayant beaucoup de difficultés pour garantir la reproductibilité et la transparence 
  
@@ -87,7 +88,6 @@ D'autre part, l'activité scientifique se transforme aussi avec les outils à la
 K: ... auquel nous dédions la première partie de notre MOOC ! Les nouveaux outils informatiques offrent en effet des nouveaux possibilités dont les chercheurs peuvent tirer des bénéfices importants.
 
 A: Pour illustrer, les chimistes savent très bien qu'ECRIRE leur objet de recherche participe à sa définition, l'historienne Klein appelle ça les paper-tools.
-> [name=Konrad] N'est-ce pas la même idée déjà évoquée par Leibniz, que les notations influencent la pensée ?
 
 > Image: [water molecule](https://en.wikipedia.org/wiki/Properties_of_water#/media/File:H2O_2D_labelled.svg)
 
@@ -95,12 +95,14 @@ L'irruption de l'ordinateur quotidien provoque à la fois de nouveaux problèmes
 
 > Image: [water.cml](https://github.com/cryos/avogadro/blob/master/fragments/water.cml)
 
-Le Chemical Markup Language pose le problème du standard des formats.
-> [name=Konrad] Je me demande si c'est très parlant pour notre audience de mentionner CML. Personnellement je connais très bien ce sujet, ayant participé à un groupe de travail qui voulait adapter CML aux simulations moléculaires (ce qui était un échec pour des raisons sociales/politiques), mais je soupçonne que même la plupart des chimistes ne savent pas apprécier ce commentaire.
+La précision éxigée par tout traitement mécanisé pose le problème du standard des formats. Enfin, la "crise" se décline souvent sur le mode de la référence à "l'Open" du Software : ce n'est pas qu'une métaphore, certaines pratiques comme le versioning sont importées du monde du logiciel.
 
-Enfin, la "crise" se décline souvent sur le mode de la référence à "l'Open" du Software : ce n'est pas qu'une métaphore, certaines pratiques comme le versioning sont importées du monde du logiciel.
+K: Ce sont en effet ces aspects informatiques dans la documentation transparente de la recherche qui sont le sujet principal de notre MOOC. Mais il faut aussi mentionner un autre aspect, que nous ne pouvons pas aborder par la suite car il faudrait un MOOC entier pour cela : l'impact de l'informatique sur les analyses statistiques.
 
-K: Ce sont en effet les aspects informatiques dans la documentation transparente de la recherche qui sont notre sujet principal ici. Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
+A: L'informatique a grandement démocratisé l'accès aux méthodes statistiques. Réaliser un test ou une régression avec un tableur ou par un script en R ou Python, est maintenant à la portée du premier venu alors que c'était l'affaire de spécialistes il y a encore quelques dizaines d'années. Cependant, être capable de lancer ce calcul ne signifie en rien qu'on maîtrise les hypothèses sous-jacentes et qu'on est capable d'interpréter correctement les résultats. Beaucoup d'exemples de non-reproductibilité cités dans le contexte de "la crise" sont au fond des exemples de méthodes statistiques mal appliquée.
+
+K: Et ce phénomène n'est pas limité aux statistiques : beaucoup de méthodes scientifiques sont aujourd'hui accesibles sous forme de logiciels, donc de "boîte noire", plus facile à appliquer qu'à comprendre.
+Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
 
 
 
