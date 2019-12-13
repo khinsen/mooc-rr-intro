@@ -24,7 +24,9 @@
 > 
 
 ## Titre de la vidéo
-La crise de la reproductibilté
+ - La crise de la reproductibilté
+ - La reproductibilité, en crise ?
+> [name=Laurence] Est-on obligé d'avoir le terme "crise" ? Finalement, après relecture de vos échanges, j'ai l'impression que vous parlez plus du contexte que de crise. A vous de voir !
 
 ## Dialogue
 
@@ -47,7 +49,7 @@ K: Et pourtant, d'autres ont réussi à construire des pompes à air, car nous e
 A: En effet. Un peu plus tard, Robert Boyle a essayé les pompes à air en verre : beaucoup plus fragiles, mais aux possibilités d'expériences plus nombreuses. Pour la légitimité, Boyle ne s'appuyait pas sur le spectacle, mais sur des témoins bien choisis. Et bien choisi, ça veut dire bien né : Si un *gentleman* en atteste, alors c'est reproductible. C'est comme ça qu'est née la première société savante, la Royal Society of London. Et pour diffuser cette légitimité, ils ont eu l'idée lumineuse du "témoin virtuel" : consigner par écrit les détails, attestés par les gentlemen. C'est la naissance du concept de publication.
 
 > Image: [Logo of Royal Society](https://en.wikipedia.org/wiki/Royal_Society#/media/File:The_Royal_Society_Coat_of_Arms.svg)
-> [name=Konrad] C'est bizarre que la Royal Society met ["On ne croit personne sur parole"](https://en.wikipedia.org/wiki/Nullius_in_verba) sur son blason tout en faisant confiance aux gentlemen !
+> [name=Konrad] Droit d'utilisation à vérifier!
 > 
 K: On reconnaît bien le principe de communiquer tout ce qu'il faut savoir pour refaire une expérience, même si aujourd'hui ce sont les pairs qui sont censés confirmer plutôt que les gentlemen. Ça semble une simple question de transparence : il suffit de prendre des notes détaillées et les rendre publiques.
 
@@ -62,47 +64,73 @@ A: Ça n'a pas changé, comme le montre l'exemple du laser TEA, tel que raconté
 K: J'imagine bien que ces questions prennent des formes très différentes d'une discipline scientifique à l'autre. On a une meilleure prise sur ses échantillons en physique qu'en biologie. Et en astronomie ou en archéologie, par exemple, on fait des observations qu'on ne peut même pas répéter.
 
 A: Oui, une des difficultés de la notion de reproductibilité, c'est arriver à définir consensuellement ce qui vaut reproduction dans tel ou tel cas : Les enjeux ne sont pas  les mêmes d'un domaine à l'autre. Cherche-ton à détecter le signal des ondes gravitationnelles dans le bruit des vibrations de quelques mm d'amplitude sur des bras métalliques de plusieurs km de long ? Cherche-t-on à rendre des populations de souris les plus significatives possibles mais suivent elles le même régime alimentaire que dans l'animalerie d'un autre laboratoire ? 
-Pire, il existe des domaines où la notion même de reproductibilité est difficilement cernable : comment définir ce qui doit être reproductible dans une expérience qui consiste à observer les réponses de cerveaux à des stimuli ?   qu'est ce qu'être reproductible dans des fouilles archéologiques, où les objets d'étude sont forcément exceptionnels ? ou en anthropologie, où l'activité scientifique elle même consiste pour le chercheur à interagir avec son objet d'étude ?
+Pire, il existe des domaines où la notion même de reproductibilité est difficilement cernable : comment définir ce qui doit être reproductible ~~dans une expérience qui consiste à observer les réponses de cerveaux à des stimuli ~~?   qu'est ce qu'être reproductible dans des fouilles archéologiques, où les objets d'étude sont forcément exceptionnels ? un peu comme dans certains cas en astronomie, à cause de la rareté de certains évènements célestes. ou en anthropologie, où l'activité scientifique elle même consiste pour le chercheur à interagir avec son objet d'étude ?
 Pour cette dernière, la fiabilité de la discipline est imaginée à partir d'autres vertus que la reproductibilité, comme par exemple la réflexivité :  le questionnement du rapport entre le chercheur et son objet d'étude pour permettre une analyse pertinente de ses conditions et résultats de recherche.
 
 K: Quid des domaines où la notion d'observation où d'expériences est complètement absente, comme l'histoire ou les études littéraires, dont les objets d'étude sont des documents ?
 
-A: ...
+A: De même qu'on a a vu des points communs entre astronomie et archéologie, on peut en voir entre analyse littéraire utilisant des traitements statistiques, essais cliniques en médecine, ou encore expériences de psychologie sociale. Dans ces trois cas, vont se poser des problèmes de reproductibilité statistique.
+> [name=AlexandreHocquet] suggestion : pourquoi ne pas utiliser ce moment pour embrayer sur la prtie où on parle de stats ? (du coup, plus à la fin ?)
+> 
+> [name=AlexandreHocquet] après avoir retouché la fin, j'i du mal à le couper-coller en bas. Peut être tout simplement, un rappel du type "on a vu tout à l'heure..."
+
+K: En quelques minutes, nous sommes allés de la reproductibilité comme valeur centrale de la science à la reproductibilité difficile et presque impossible, dans certains domaines. A mon avis il faut la voir comme un idéal, qui mérite être poursuivi même si on ne l'atteint pas.
+
+A: Tout à fait. Ce n'est pas parce que la reproductibilité est une question complexe et multiforme qu'il ne faut pas essayer d'avoir les meilleures pratiques de recherche possibles, évidemment.
+> [name=Konrad] J'ai remanié cette partie parce que je trouve que cette phrase fait une belle conclusion du sujet précédent.
 
 K: Revenons à la crise de la reproductibilité. Pourquoi maintenant? Sommes-nous moins rigoureux que nos ancêtres scientifiques ? Ou est-ce la science qui a changé ?
 
-A: Ce n'est pas parce que la reproductibilité est une question complexe et multiforme qu'il ne faut pas essayer d'avoir les meilleures pratiques de recherche possibles, évidemment.
-La "crise" corrrespond d'une part à la peur de la perte de la légitimité de l'activité scientifique. De ce point de vue, le mouvement de contestation "Open Access" contre les grands éditeurs, participe au même mouvement d'exigence de transparence. Les deux crises concomittantes se rejoignent dans la critique du peer-reviewing par exemple
+A: Un aspect de la "crise" est une peur de la perte de la légitimité de l'activité scientifique. L'exemple de la science du climat et de ses enjeux géopolitiques est parlant : les institutions à la frontière entre science et politique ont besoin de gages de sérieux, de accountability. La reproductibilité est souvent brandie comme "la moindre des choses" en science. C'est la crédibilité des chercheurs, et celle des institutions scientifiques qui est en jeu. ~~De ce point de vue,~~ Dans la même veine le mouvement de contestation "Open Access" contre les grands éditeurs, participe au même mouvement d'exigence de transparence. Les deux crises concomittantes se rejoignent dans la critique du peer-reviewing par exemple.
+
+K: On lui reproche en effet en même temps l'obscurantisme, parce que les reviewers des grands journaux restent anonymes, et l'inefficacité parce que la spécialisation et la pression du temps rendent le travail d'évaluation de plus en plus difficile.
+
 > [name=MaHe] De même que la notion de "peur de la perte de la légitimité de l'activité scientifique" n'est pas évidente (cela ne me parle pas par exemple) est-ce qu'on pourrait développer plus cette partie (en quelques phrases) ? et dire en quoi consiste la critique du per-reviewing ? à quoi c'est du ? (abondance des publis ? et pratique des editeurs ?) 
 > [name=Christophe] Tu peux penser à « la vache folle » et à l'épidémie de Creutzfeld-Jacob qui nous était prédite, ou aux pluies acides ; souviens toi, dans le milieu des années 80 « on » nous disait que les forêts allaient disparaitre, on pourrait multiplier les exemples (sang contaminé, [ruines de Séchilienne](https://fr.wikipedia.org/wiki/Ruines_de_S%C3%A9chilienne)). Que le citoyen λ se dise que les gens qu'il paie avec ses impôts ou ses donts ont parfois une forte tendance à déconner, est, de mon point de vue, compréhensible et c'est cela que j'entends par « perte de légitimité ». Qu'en à la source, je la situe clairement dans la pression pour publier et une tendance générale de la société qui ne reconnaît plus que les « gagneurs » (pourquoi Villani est-il le seul médaillé Fields que tout le monde connaît ? la France ne manque pourtant pas de lauréats de ce prix).
 > [name=Konrad] Pour répondre au sujet de la perte de légitimité, le débat en cours sur le changement climatique en est un bon exemple. Les "climatosceptiques" contestent tout simplement les conclusions des climatologues comme erronnées ou au moins peu fiables.  Et les "défenseurs de la science" retorquent par des arguments d'autorité et de majorité ("tous les climatologues sont d'accord que..."). C'est la méthode scientifique qui disparaît complètement du discours des deux côtés. Ça a peut-être toujours été le cas pour les discours publics, car très peu de gens ont la compétence nécessaire pour juger eux-mêmes.
 > [name=AlexandreHocquet] il y aussi un autre exemple actuel : c'est la crise dans les essais cliniques accusés de pouvoir dire tout et son contraire (OGM, glyphosate en ce qui concenre les controverses), et d'être soupçonnés de biais par leur liens avec l'industrie. Mais pour aller dans le sens de @MaHe peut être devrions nous citer UN exemple pour fixer les idées? Si c'est le cas, j'aurais tendance à choisir le climat, le plus parlant selon moi.
+> [name=MaHe] oui, je pense que vous devriez citer un exemple car tout le monde n'a pas le même niveau de culture sur tous ces sujets
 > [name=Christophe] Sauf que le gros du public ne vera pas le problème, puisque tout le monde, ou presque, accepte le « concensus » sensé être la « science qui parle » ; je pense qu'il faudrait trouver un exemple à la fois récent et où « la fin de l'histoire » est connue (dans le cas du climat, aucun de nous ne sera là dans 100 ans pour voir si la température a augmenté de 3 degrés, de 0 ou de -2) ; dans le cas la vache folle, on avait de vraies « prédictions » avec 15000 morts par an si je me souviens bien et on en est (heureusement) très loin.
 > [name=Konrad] Pas besoin d'attendre 100 ans. Des vieux modèles climatiques d'il y a 50 ans ont déjà prédit une hausse des températures moyennes qui est assez proche de ce qu'on a observé par la suite. J'ai même vu l'affirmation que la première prédiction d'une hausse de températures remonte à Arrhenius (19ème siècle), mais je n'ai pas réussi à trouver une référence plus précise.
 > [name=Christophe] Et ces modèles expliquent aussi pourquoi le réchauffement actuel a commencé il y a 12000 ans (fin du Würm) ? La contreverse principale remonte au moins au début du XIXe avec d'un coté les tenants de la théorie astronomique (Delambre, Adhémar, Croll, Milancovic) et de l'autre, ceux de la théorie physico-chimique (Fourier, Pouillet, Tyndall, Arrhenius, Chamberlin). Pour un phénomène aussi « complexe » (au sens propre du terme) dont la dynamique est visiblement dépendante de nombreux facteurs (dont une partie doit encore nous échapper) et qui court depuis si longtemps, il est toujours possible de trouver une morceau de la courbe qui est bien ajusté par l'un des modèles simplifiés (mono-factoriel) à disposition, ou dans créer un pour répondre au besoin. Si je compare l'activité solaire (estimée par le nombre de tâches observées : <https://earthobservatory.nasa.gov/features/SORCE/sorce_03.php>) avec la température moyenne depuis le début du XVIIe, l'accord n'est pas mauvais du tout...
-> 
+> [name=Konrad] Je suis bien d'accord que nous n'avons aucun modèle qui décrit de façon exhaustive de l'évolution du climat sur des millénaires. Il y a trop de phénomènes imbriqués dont il faut tenir compte. Mais à ma connaissance personne (de sérieux) n'a jamais prétendu avoir un tel modèle universel. Les modèles d'il y a 50 ans, comme ceux d'aujourd'hui, se limitent au court terme, donc quelques siècles, en ignorant des effets supposés très lents. Mais là nous sommes dans un débat scientifique, qui n'a pas grande chose à avoir avec le débat public en cours.
+> [name=Konrad] En fait, si on cherche un exemple de science à légitimité douteuse, il y a aussi la science de la nutrition. Entre le lobbying industriel et la pression publique et politique de fournir des recommendations concrètes même en absence de connaissance réelle, cette science n'a produit quasiment rien de fiable.
+> [name=AlexandreHocquet] 
+> [time=Thu, Dec 12, 2019 3:16 PM] tout ce débat me fait me rendre compte que quand je dis "légitimité", on peut entendre des tas de choses différrentes donc @MaHe a raison de trouver ça flou : pour ma part, je ne paensais spécialement à ce qui est douteux : TOUTES les sciences travaillent pour acquérir une légitimité. D'une part, les commuanautés de chercheurs pour se faire reconnaître institutionnllement dans le game, d'autre part les institutions dans leurs relations avec le "public" ou les "stakeholders". De ce point de vue , l'exempel du climat me paraît archétypal : il est au coeur d'enjeux géopolitiques et rendre cohérente la diversité des modèles dont parlent Konrad et Christophe est l'enjeu de la commuanuté de climatologues pour sa crédibilité, masi aussi des insitutions à la marge de la science et de la politique vis à vis des "dédideurs", des "taxpayers" et des électeurs
 > [name=AlexandreHocquet] Pour le peer-reviewing, le point commun entre "critique Open Access" et "crise de la reproductibilité", c'est que le peer-reviewing tel qu'il existe actuellement est critiqué comme ayant beaucoup de difficultés pour garantir la reproductibilité et la transparence 
+> [name=MaHe]
+> j'avais entendu que si le peer-review était "en panne" c'est du à l'effet de massification des publications scientifiques - + quelques politiques éditoriales -  : en conséquences les éditeurs sont amenés à faire évaluer les publis par des scientifiques de + en + éloignés des questions traitées dans l'article - donc "plus tout à fait des pairs"- faute de disponibilité des auteurs "pairs" submergés par les reviews.
+> [name=AlexandreHocquet]
+> [time=Thu, Dec 12, 2019 3:10 PM] Oui, l'inflation des publis n'aide pas et fait partie du problème. Mais la critique porte aussi sur le processus lui même : dans le cas du computationnel : qu'est ce que le reviewer est censé vérifier, donc de quoi se porte t il garant exactement et quels moyens lui donne t on (code ouvert et accessible?, données à reproduire? les concepteurs de ReScience ont des idées sur la question) ? Mais aussi, d'un autre côté, le processus est critiqué pour sa transparence toute relative, d'où les initiatives de type open peer review : reviews anonymes mais publiques, éventuellement ouvertes à tout le monde dnas le cadre de preprints, publications des articles AVEC leurs reviews, etc...
+> [name=Laurence] Finalement, avez-vous choisi un exemple concret pour illuster la notion de “peur de la perte de la légitimité de l’activité scientifique”? Je pense aussi que ce serait bien d'en avoir un ici et effectivement, je suis d'accord avec @Christophe sur le fait qu’il faudrait trouver un exemple à la fois récent et où « la fin de l’histoire » est connue. Attention à "récent" : dans l'idéal, ça doit parler au jeunes doctorants (nés en 1995 !) et un sujet internationnal. 
  
-D'autre part, l'activité scientifique se transforme aussi avec les outils à la disposition du chercheur. La prise de notes par exemple est un point essentiel.
+A: Exactement. Un autre aspect de la crise est que l'activité scientifique se transforme avec les outils à la disposition du chercheur. La prise de notes par exemple est un point essentiel.
 
 K: ... auquel nous dédions la première partie de notre MOOC ! Les nouveaux outils informatiques offrent en effet des nouveaux possibilités dont les chercheurs peuvent tirer des bénéfices importants.
-
-A: Pour illustrer, les chimistes savent très bien qu'ECRIRE leur objet de recherche participe à sa définition, l'historienne Klein appelle ça les paper-tools.
+> [name=AlexandreHocquet] Finalement, je crois que j'ai envie de laisser tomber cet exempel chimique qui s'écarte du sujet (ou alros il faudrait en dire plus et ce n'est aps central). J'ai envie de supprimer,et remplacer par une mini phrase qui te rend la parole
+~~A: Pour illustrer, les chimistes savent très bien qu'ECRIRE leur objet de recherche participe à sa définition, l'historienne Klein appelle ça les paper-tools.
 
 > Image: [water molecule](https://en.wikipedia.org/wiki/Properties_of_water#/media/File:H2O_2D_labelled.svg)
 
-L'irruption de l'ordinateur quotidien provoque à la fois de nouveaux problèmes et de nouvelles possibilités : Comment écrire la chimie sur ordinateur ?
+~~L'irruption de l'ordinateur quotidien provoque à la fois de nouveaux problèmes et de nouvelles possibilités : Comment écrire la chimie sur ordinateur ?~~
 
 > Image: [water.cml](https://github.com/cryos/avogadro/blob/master/fragments/water.cml)
 
-La précision éxigée par tout traitement mécanisé pose le problème du standard des formats. Enfin, la "crise" se décline souvent sur le mode de la référence à "l'Open" du Software : ce n'est pas qu'une métaphore, certaines pratiques comme le versioning sont importées du monde du logiciel.
+A : Oui, l'ordinateur change l'organisation du document, il en change l'archivage, il change la façon d'écrire : Le document computationnel, pour prendre un exemple abordé dans ce MOOC...
 
-K: Ce sont en effet ces aspects informatiques dans la documentation transparente de la recherche qui sont le sujet principal de notre MOOC. Mais il faut aussi mentionner un autre aspect, que nous ne pouvons pas aborder par la suite car il faudrait un MOOC entier pour cela : l'impact de l'informatique sur les analyses statistiques.
+~~La précision éxigée par tout traitement mécanisé pose le problème du standard des formats.~~~~ 
 
-A: L'informatique a grandement démocratisé l'accès aux méthodes statistiques. Réaliser un test ou une régression avec un tableur ou par un script en R ou Python, est maintenant à la portée du premier venu alors que c'était l'affaire de spécialistes il y a encore quelques dizaines d'années. Cependant, être capable de lancer ce calcul ne signifie en rien qu'on maîtrise les hypothèses sous-jacentes et qu'on est capable d'interpréter correctement les résultats. Beaucoup d'exemples de non-reproductibilité cités dans le contexte de "la crise" sont au fond des exemples de méthodes statistiques mal appliquée.
+K: C'est même un élément central dans les techniques de la recherche reproductible et donc dans notre MOOC : l'intégration du code dans l'explication des méthodes et résultats. Mais il faut aussi mentionner un autre aspect, que nous ne pouvons pas aborder par la suite car il faudrait un MOOC entier pour cela : l'impact de l'informatique sur les analyses statistiques.
+
+A: Oui on a vu tout à l'heure qu'on voyait ce genre de triatement aussi bien en médecine qu'en psychologie ou littérature... 
+
+K: Le problème de fond est que l'informatique a grandement démocratisé l'accès aux méthodes statistiques. Réaliser un test ou une régression avec un tableur ou par un script est maintenant à la portée du premier venu alors que c'était l'affaire de spécialistes il y a encore quelques dizaines d'années. Cependant, être capable de lancer ce calcul ne signifie en rien qu'on maîtrise les hypothèses sous-jacentes et qu'on est capable d'interpréter correctement les résultats. Beaucoup d'exemples de non-reproductibilité cités dans le contexte de "la crise" sont au fond des exemples de méthodes statistiques mal appliquée.
 
 K: Et ce phénomène n'est pas limité aux statistiques : beaucoup de méthodes scientifiques sont aujourd'hui accesibles sous forme de logiciels, donc de "boîte noire", plus facile à appliquer qu'à comprendre.
-Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
+
+A: Oui, il y aussi dans la crise un "discours de crise" qui se décline souvent sur le mode de la référence à "l'Open" du Software. Mais ce n'est pas qu'une métaphore, certaines pratiques comme les licences ou le versioning sont importées du monde du logiciel libre.
+
+K : Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
 
 
 
