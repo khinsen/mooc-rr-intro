@@ -21,22 +21,28 @@
 > [name=Christophe] Je suis d'accord.
 > [name=AlexandreHocquet] suite à la visio :penser à ajouter des exemples de SHS quieffectivemetn sont concernées apr du quanti
 > [name=Laurence] Et aussi trouver un exemple dans le domaine de la littérature par exemple
-> 
+> [name=Konrad] Il n'y a aucune obligation autre que d'avoir un titre... les propositions sont les bienvenues !
 
 ## Titre de la vidéo
  - La crise de la reproductibilté
  - La reproductibilité, en crise ?
 > [name=Laurence] Est-on obligé d'avoir le terme "crise" ? Finalement, après relecture de vos échanges, j'ai l'impression que vous parlez plus du contexte que de crise. A vous de voir !
+> 
+> [name=AlexandreHocquet] oui je suis d'accord. ya un côté négatif. c'est pour ça que j'envisageais un point d'interrogation, mais on peut aussi imaginer un autre titre 
+
+> [name=Konrad] On peut lancer un concours... et si j'ai bien compris, le titre ne sera pas dans la vidéo, donc pas d'urgence.
 
 ## Dialogue
 
-K: Bienvenue dans notre MOOC sur la Recherche Reproductible. Les cours et exercices de ce MOOC sont très pragmatiques : leur objectif est de vous montrer les bonnes pratiques et des bons outils informatiques pour rendre vos recherches plus transparentes. Mais avant de mettre la main à la pâte, il est important de comprendre pourquoi notre sujet est si important. Pour éclaircir cette question, nous avons invité Alexandre Hocquet, historien des sciences. Dans ce lieu historique, où Claude Bernard suivait les cours de René Laennec au 19ème siècle, nous allons évoquer comment le besoin de transparence s'est exprimé au cours de l'histoire et à travers les differentes disciplines.
+> [name=Konrad] J'ai supprimé toute la discussion mélangée avec le texte, qui est devenu illisible. Tout est préservé ici : https://github.com/khinsen/mooc-rr-intro/commit/e1c7657573af87315fbd04770e09f8d543862089
+
+K: Bienvenue dans notre MOOC sur la Recherche Reproductible. Les cours et exercices de ce MOOC sont très pragmatiques : leur objectif est de vous montrer les bonnes pratiques et des bons outils informatiques pour rendre vos recherches plus transparentes. Mais avant de mettre la main à la pâte, il est important de comprendre pourquoi notre sujet est si important. Pour éclaircir cette question, nous avons invité Alexandre Hocquet, historien des sciences. Dans ce lieu historique, où Claude Bernard suivait les cours de médecine de René Laennec au 19ème siècle, nous allons évoquer comment le besoin de transparence s'est exprimé au cours de l'histoire et à travers les differentes disciplines.
 
 A: Bonjour !
 
 K: Depuis quelques années, nous entendons parler dans les médias d'une crise de reproductibilité qui sévirait dans plusieurs discplines scientifiques. Est-ce donc une question récente ?
 
-A: Pas du tout ! Regardons comme exemple l'invention des pompes à air. C'était le cyclotron du 17è siècle ! Le fleuron de la science expérimentale.
+A: ça existe au moins depuis qu'on parle de "méthode expérimentale" ! Regardons comme exemple l'invention des pompes à air. C'était le cyclotron du 17è siècle ! 
 
 K: Tu parles des démonstration qu'Otto van Guericke faisait dans toute l'Europe ? Les deux hémisphères collées ensemble par la pression de l'air ambiant, que même la force de deux chevaux ne pouvait pas séparer ?
 >  Image: [Luftpumpentaler](https://de.wikipedia.org/wiki/Luftpumpentaler#/media/Datei:Luftpumpentaler_von_1702,_Braunschweig-Wolfenb%C3%BCttel.JPG)
@@ -46,14 +52,15 @@ A: Tout à fait. L'histoire, telle qu'elle est racontée par les historiens Shap
 K: Et pourtant, d'autres ont réussi à construire des pompes à air, car nous en avons encore aujourd'hui.
 > Image: [Boyle's first air pump](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)
 
-A: En effet. Un peu plus tard, Robert Boyle a essayé les pompes à air en verre : beaucoup plus fragiles, mais aux possibilités d'expériences plus nombreuses. Pour la légitimité, Boyle ne s'appuyait pas sur le spectacle, mais sur des témoins bien choisis. Et bien choisi, ça veut dire bien né : Si un *gentleman* en atteste, alors c'est reproductible. C'est comme ça qu'est née la première société savante, la Royal Society of London. Et pour diffuser cette légitimité, ils ont eu l'idée lumineuse du "témoin virtuel" : consigner par écrit les détails, attestés par les gentlemen. C'est la naissance du concept de publication.
+A: Oui, un peu plus tard, Robert Boyle a essayé les pompes à air en verre : beaucoup plus fragiles, mais aux possibilités d'expériences plus nombreuses. Pour la légitimité, Boyle ne s'appuyait pas sur le spectacle, mais sur des témoins bien choisis. Et bien choisi, ça veut dire bien né : Si un *gentleman* en atteste, alors c'est reproductible. C'est comme ça qu'est née la première société savante, la Royal Society of London. Et pour diffuser cette légitimité, ils ont eu l'idée du "témoin virtuel" : consigner par écrit les détails, attestés par les gentlemen. C'est la naissance du concept de publication.
 
 > Image: [Logo of Royal Society](https://en.wikipedia.org/wiki/Royal_Society#/media/File:The_Royal_Society_Coat_of_Arms.svg)
 > [name=Konrad] Droit d'utilisation à vérifier!
-> 
+> [name=Konrad] D'après Laurence c'est bon.
+
 K: On reconnaît bien le principe de communiquer tout ce qu'il faut savoir pour refaire une expérience, même si aujourd'hui ce sont les pairs qui sont censés confirmer plutôt que les gentlemen. Ça semble une simple question de transparence : il suffit de prendre des notes détaillées et les rendre publiques.
 
-A: L'ironie est que ces publications (louées comme l'avènement de la science expérimentale, la révolution scientifique, LA méthode scientifique) étaient effectivement à la base de la construction de la légitimité (une technique littéraire) mais ne garantissaient en rien la reproductibilité : De fait, Huyghens, en France à la même époque, a essayé sans succès de reproduire une pompe à air de Boyle. Personne n'y est jamais parvenu sans avoir à ses côtés une pompe à air fonctionnelle ET la personne l'ayant conçue. C'est que, même dans la recherche la mieux décrite, il existe toujours une part de *tacit knowledge*, c'est à dire de savoir qu'on ne sait pas expliciter, et impossible à formaliser.
+A: L'ironie est que ces publications étaient effectivement à la base de la construction de la légitimité (une technique littéraire) mais ne garantissaient en rien la reproductibilité : De fait, Huyghens, en France à la même époque, a essayé sans succès de reproduire une pompe à air de Boyle. Personne n'y est jamais parvenu sans avoir à ses côtés une pompe à air fonctionnelle ET la personne l'ayant conçue. C'est que, même dans la recherche la mieux décrite, il existe toujours une part de *savoir tacite*, un savoir qu'on ne sait pas expliciter, et impossible à formaliser.
 
 K: Est-ce encore le cas aujourd'hui ?
 
@@ -61,13 +68,13 @@ A: Ça n'a pas changé, comme le montre l'exemple du laser TEA, tel que raconté
 
 > Image: [TEA laser circuit](https://en.wikipedia.org/wiki/TEA_laser#/media/File:TEA-Laser-Circuit.jpg) (ça fait bien la transition à la modernité)
 
-K: J'imagine bien que ces questions prennent des formes très différentes d'une discipline scientifique à l'autre. On a une meilleure prise sur ses échantillons en physique qu'en biologie. Et en astronomie ou en archéologie, par exemple, on fait des observations qu'on ne peut même pas répéter.
+K: J'imagine bien que ces questions prennent des formes très différentes d'une discipline scientifique à l'autre. On a une meilleure prise sur ses échantillons en physique qu'en biologie. Et en astronomie ou en archéologie, par exemple, on travaille avec des observations qu'on ne peut même pas répéter.
 
-A: Oui, une des difficultés de la notion de reproductibilité, c'est arriver à définir consensuellement ce qui vaut reproduction dans tel ou tel cas : Les enjeux ne sont pas  les mêmes d'un domaine à l'autre. Cherche-ton à détecter le signal des ondes gravitationnelles dans le bruit des vibrations de quelques mm d'amplitude sur des bras métalliques de plusieurs km de long ? Cherche-t-on à rendre des populations de souris les plus significatives possibles mais suivent elles le même régime alimentaire que dans l'animalerie d'un autre laboratoire ? 
-Pire, il existe des domaines où la notion même de reproductibilité est difficilement cernable : comment définir ce qui doit être reproductible ? qu'est ce qu'être reproductible dans des fouilles archéologiques, où les objets d'étude sont forcément exceptionnels ? un peu comme dans certains cas en astronomie, à cause de la rareté de certains évènements célestes. ou en anthropologie, où l'activité scientifique elle même consiste pour le chercheur à interagir avec son objet d'étude ?
-Pour cette dernière, la fiabilité de la discipline est imaginée à partir d'autres vertus que la reproductibilité, comme par exemple la réflexivité :  le questionnement du rapport entre le chercheur et son objet d'étude pour permettre une analyse pertinente de ses conditions et résultats de recherche.
+A: Oui, une des difficultés de la notion de reproductibilité, c'est arriver à définir consensuellement ce qui vaut reproduction dans tel ou tel cas : Les enjeux ne sont pas les mêmes d'un domaine à l'autre. 
+Pire, il existe des domaines où la notion même de reproductibilité est difficilement cernable : En anthropologie, où l'activité scientifique elle même consiste pour le chercheur à interagir avec son objet d'étude ?
+Pour cette dernière, la fiabilité de la discipline est imaginée à partir d'autres vertus que la reproductibilité, comme par exemple la réflexivité :  le questionnement du rapport entre le chercheur et son objet d'étude 
 
-K: Quid des domaines où la notion d'observation où d'expériences est complètement absente, comme l'histoire ou les études littéraires, dont les objets d'étude sont des documents ?
+K: Quid des domaines où la notion d’observation ou d’expérience se pose différemment, comme en histoire ou dans les études littéraires ?
 
 A: De même qu'on a a vu des points communs entre astronomie et archéologie, on peut en voir entre analyse littéraire utilisant des traitements statistiques, essais cliniques en médecine, ou encore expériences de psychologie sociale. Dans ces trois cas, vont se poser des problèmes de reproductibilité statistique.
 
@@ -77,27 +84,29 @@ A: Tout à fait. Ce n'est pas parce que la reproductibilité est une question co
 
 K: Revenons à la crise de la reproductibilité. Pourquoi maintenant? Sommes-nous moins rigoureux que nos ancêtres scientifiques ? Ou est-ce la science qui a changé ?
 
-A: Un aspect de la "crise" est une peur de la perte de la légitimité de l'activité scientifique. L'exemple de la science du climat et de ses enjeux géopolitiques est parlant : les institutions à la frontière entre science et politique ont besoin de gages de sérieux, de accountability. La reproductibilité est souvent brandie comme "la moindre des choses" en science. C'est la crédibilité des chercheurs, et celle des institutions scientifiques qui est en jeu. ~~De ce point de vue,~~ Dans la même veine le mouvement de contestation "Open Access" contre les grands éditeurs, participe au même mouvement d'exigence de transparence. Les deux crises concomittantes se rejoignent dans la critique du peer-reviewing par exemple.
+A: Un aspect de la "crise" est une peur de la perte de la légitimité de l'activité scientifique. L'exemple de la science du climat et de ses enjeux géopolitiques est parlant : les institutions à la frontière entre science et politique ont besoin de gages de sérieux. Bien qu'on vienne de voir qu'elle est extrêment difficile à appréhender, la reproductibilité est souvent brandie comme "la moindre des choses" en science. C'est la crédibilité des chercheurs, et celle des institutions scientifiques qui est en jeu. Dans la même veine le mouvement de contestation "Open Access" contre les grands éditeurs, participe au même mouvement d'exigence de transparence. Les deux crises concomittantes se rejoignent dans la critique du peer-reviewing par exemple.
 
-K: On lui reproche en effet en même temps l'obscurantisme, parce que les reviewers des grands journaux restent anonymes, et l'inefficacité parce que la spécialisation et la pression du temps rendent le travail d'évaluation de plus en plus difficile.
+K: On lui reproche en effet en même temps l'opacité, parce que les reviewers des grands journaux restent anonymes, et l'inefficacité parce que la spécialisation et la pression du temps rendent le travail d'évaluation de plus en plus difficile.
 
 A: Exactement. Un autre aspect de la crise est que l'activité scientifique se transforme avec les outils à la disposition du chercheur. La prise de notes par exemple est un point essentiel.
 
-K: ... auquel nous dédions la première partie de notre MOOC ! Les nouveaux outils informatiques offrent en effet des nouveaux possibilités dont les chercheurs peuvent tirer des bénéfices importants.
+K: ... auquel nous dédions la première partie de notre MOOC ! Les nouveaux outils informatiques offrent en effet des nouvelles possibilités dont les chercheurs peuvent tirer des bénéfices importants.
 
-A : Oui, l'ordinateur change l'organisation du document, il en change l'archivage, il change la façon d'écrire : Le document computationnel, pour prendre un exemple abordé dans ce MOOC...
+A : Oui, l'ordinateur change l'organisation du document, il en change l'archivage, il change aussi la façon d'écrire : Le document computationnel, pour prendre un exemple abordé dans ce MOOC...
 
-K: C'est même un élément central dans les techniques de la recherche reproductible et donc dans notre MOOC : l'intégration du code dans l'explication des méthodes et résultats. Mais il faut aussi mentionner un autre aspect, que nous ne pouvons pas aborder par la suite car il faudrait un MOOC entier pour cela : l'impact de l'informatique sur les analyses statistiques.
+K: C'est même un élément central dans les techniques de la recherche reproductible et donc dans notre MOOC : l'intégration du code dans l'explication des méthodes et des résultats. Mais il faut aussi mentionner un autre aspect, que nous ne pouvons pas aborder par la suite car il faudrait un MOOC entier pour cela : l'impact de l'informatique sur les analyses statistiques.
 
-A: Oui on a vu tout à l'heure qu'on voyait ce genre de triatement aussi bien en médecine qu'en psychologie ou littérature... 
+A: Oui on a vu tout à l'heure qu'on voyait ce genre de traitement aussi bien en médecine qu'en psychologie ou littérature... 
 
-K: Le problème de fond est que l'informatique a grandement démocratisé l'accès aux méthodes statistiques. Réaliser un test ou une régression avec un tableur ou par un script est maintenant à la portée du premier venu alors que c'était l'affaire de spécialistes il y a encore quelques dizaines d'années. Cependant, être capable de lancer ce calcul ne signifie en rien qu'on maîtrise les hypothèses sous-jacentes et qu'on est capable d'interpréter correctement les résultats. Beaucoup d'exemples de non-reproductibilité cités dans le contexte de "la crise" sont au fond des exemples de méthodes statistiques mal appliquée.
+K: Le problème de fond est que l'informatique a grandement démocratisé l'accès aux méthodes statistiques. Réaliser un test ou une régression avec un tableur ou par un script est maintenant à la portée du premier venu alors que c'était l'affaire de spécialistes il y a encore quelques dizaines d'années. Cependant, être capable de lancer ce calcul ne signifie en rien qu'on maîtrise les hypothèses sous-jacentes et qu'on est capable d'interpréter correctement les résultats. Beaucoup d'exemples de non-reproductibilité cités dans le contexte de "la crise" sont au fond des exemples de méthodes statistiques mal appliquées.
 
-K: Et ce phénomène n'est pas limité aux statistiques : beaucoup de méthodes scientifiques sont aujourd'hui accesibles sous forme de logiciels, donc de "boîte noire", plus facile à appliquer qu'à comprendre.
+A: La boite noire de l'instrumentation !
 
-A: Oui, il y aussi dans la crise un "discours de crise" qui se décline souvent sur le mode de la référence à "l'Open" du Software. Mais ce n'est pas qu'une métaphore, certaines pratiques comme les licences ou le versioning sont importées du monde du logiciel libre.
+K: Oui, ce phénomène n'est pas limité aux statistiques : beaucoup de méthodes scientifiques sont aujourd'hui accesibles sous forme de logiciels, donc de "boîte noire", plus facile à appliquer qu'à comprendre.
 
-K : Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
+A: Oui, il y aussi dans la crise un "discours de crise" qui se décline souvent sur le mode de la référence à "l'Open" du Software, en opposition aux "boites noires". Mais ce n'est pas qu'une métaphore, certaines pratiques comme les licences ou le versioning sont importées du monde du logiciel libre.
+
+K : Voici un autre sujet que nous traitons dans ce MOOC ! Merci Alexandre de nous avoir aidé à placer notre MOOC dans le contexte plus vaste des bonnes pratiques de la recherche scientifique !
 
 
 
