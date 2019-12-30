@@ -2,6 +2,16 @@
 
 ## Discussion
 
+### Références de livres
+> [name=AlexandreHocquet]
+> [time=Tue, Dec 24, 2019 3:19 AM] dans la vidéo, je cite deux livres : "Leviathan and the air pump" de Shapin et Schaffer et "changing order" de Collins : est ce qu'on met les références ? est ce qu'on met une photo des couvertures ? (est ce que ça pose un problème de droits?)
+> [name=Laurence Farhi]normalement, il faut demander l'autorisation à l'éditeur. On pourra ajouter soit en incrustation dans la video soit à la fin de la vidéo soit sous la vidéo dans FUN les citations des ouvrages. Ca vous va ? si oui, j'ai mis les citations à la fin
+> 
+> [name=AlexandreHocquet]
+> [time=Thu, Dec 26, 2019 11:05 PM]oui aucun problème pour moi
+> [name=konrad] d'accord aussi
+> 
+
 ### Open Access
 > [name=Sabrina] "De ce point de vue, le mouvement de contestation “Open Access” contre les grands éditeurs, participe au même mouvement d’exigence de transparence. " c'est sans doute un point de vue biaisé de ma part mais ça me semble un peu hardi de présenter le mouvement de l'open access ainsi, surtout avec la diversité des modèles économiques et des réalités éditoriales que le terme englobe. On est parfois très très loin de toute forme de contestation.
 > [name=MaHe] +1 
@@ -36,7 +46,7 @@
 
 > [name=Konrad] J'ai supprimé toute la discussion mélangée avec le texte, qui est devenu illisible. Tout est préservé ici : https://github.com/khinsen/mooc-rr-intro/commit/e1c7657573af87315fbd04770e09f8d543862089
 
-K: Bienvenue dans notre MOOC sur la Recherche Reproductible. Les cours et exercices de ce MOOC sont très pragmatiques : leur objectif est de vous montrer les bonnes pratiques et des bons outils informatiques pour rendre vos recherches plus transparentes. Mais avant de mettre la main à la pâte, il est important de comprendre pourquoi notre sujet est si important. Pour éclaircir cette question, nous avons invité Alexandre Hocquet, historien des sciences. Dans ce lieu historique, où Claude Bernard suivait les cours de médecine de René Laennec au 19ème siècle, nous allons évoquer comment le besoin de transparence s'est exprimé au cours de l'histoire et à travers les differentes disciplines.
+K: Bienvenue dans notre MOOC sur la Recherche Reproductible. Les cours et exercices de ce MOOC sont très pragmatiques : leur objectif est de vous montrer les bonnes pratiques et des bons outils informatiques pour rendre vos recherches plus transparentes. Mais avant de mettre la main à la pâte, il est important de comprendre pourquoi notre sujet est si important. Pour éclaircir cette question, nous avons invité Alexandre Hocquet, historien des sciences. Dans ce lieu historique, où René Laennec enseignait la médecine au 19ème siècle, nous allons évoquer comment le besoin de transparence s'est exprimé au cours de l'histoire et à travers les differentes disciplines.
 
 A: Bonjour !
 
@@ -45,18 +55,22 @@ K: Depuis quelques années, nous entendons parler dans les médias d'une crise d
 A: ça existe au moins depuis qu'on parle de "méthode expérimentale" ! Regardons comme exemple l'invention des pompes à air. C'était le cyclotron du 17è siècle ! 
 
 K: Tu parles des démonstration qu'Otto van Guericke faisait dans toute l'Europe ? Les deux hémisphères collées ensemble par la pression de l'air ambiant, que même la force de deux chevaux ne pouvait pas séparer ?
->  Image: [Luftpumpentaler](https://de.wikipedia.org/wiki/Luftpumpentaler#/media/Datei:Luftpumpentaler_von_1702,_Braunschweig-Wolfenb%C3%BCttel.JPG)
-> 
+>  Image: [Luftpumpentaler](https://de.wikipedia.org/wiki/Luftpumpentaler#/media/Datei:Luftpumpentaler_von_1702,_Braunschweig-Wolfenb%C3%BCttel.JPG)  
+>  Crédit : Beide Varianten des Luftpumpentaler von 1702 (Kupferstich aus Johann David Köhlers Münzbelustigung von 1744) à traduire par @khinsen
+ 
 A: Tout à fait. L'histoire, telle qu'elle est racontée par les historiens Shapin et Schaffer, permet de comprendre les enjeux de reproductibilité et légitimité. Von Guericke tirait un prestige de ses démonstrations pour sa carrière de diplomate. Evidemment, son savoir faire avait besoin d'être reproductible, pour éviter le bide, mais il n'avait aucun intérêt à ce que quelqu'un d'autre puisse le reproduire : Il tirait sa légitimité du succès de ces spectacles.
 
 K: Et pourtant, d'autres ont réussi à construire des pompes à air, car nous en avons encore aujourd'hui.
-> Image: [Boyle's first air pump](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)
+> Image: [Boyle's first air pump](https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg)  
+> Crédit : Boyle's first air pump. Wellcome Collection gallery (2018-03-24): https://wellcomecollection.org/works/evkp2bqs CC-BY-4.0. https://commons.wikimedia.org/wiki/File:Boyle%27s_first_air_pump._Wellcome_M0010676.jpg#/media/File:Boyle's_first_air_pump._Wellcome_M0010676.jpg
 
 A: Oui, un peu plus tard, Robert Boyle a essayé les pompes à air en verre : beaucoup plus fragiles, mais aux possibilités d'expériences plus nombreuses. Pour la légitimité, Boyle ne s'appuyait pas sur le spectacle, mais sur des témoins bien choisis. Et bien choisi, ça veut dire bien né : Si un *gentleman* en atteste, alors c'est reproductible. C'est comme ça qu'est née la première société savante, la Royal Society of London. Et pour diffuser cette légitimité, ils ont eu l'idée du "témoin virtuel" : consigner par écrit les détails, attestés par les gentlemen. C'est la naissance du concept de publication.
 
-> Image: [Logo of Royal Society](https://en.wikipedia.org/wiki/Royal_Society#/media/File:The_Royal_Society_Coat_of_Arms.svg)
+> Image: [Logo of Royal Society](https://en.wikipedia.org/wiki/Royal_Society#/media/File:The_Royal_Society_Coat_of_Arms.svg)  
+> Crédit : Logo of Royal Society. Uploaded: 4 Sept. 2016. https://en.wikipedia.org/wiki/File:The_Royal_Society_Coat_of_Arms.svg
 > [name=Konrad] Droit d'utilisation à vérifier!
 > [name=Konrad] D'après Laurence c'est bon.
+> [name=Laurence] : d'après ce que je comprends, si on l'utilise pour parler de la Royal society, c'est bon
 
 K: On reconnaît bien le principe de communiquer tout ce qu'il faut savoir pour refaire une expérience, même si aujourd'hui ce sont les pairs qui sont censés confirmer plutôt que les gentlemen. Ça semble une simple question de transparence : il suffit de prendre des notes détaillées et les rendre publiques.
 
@@ -66,9 +80,13 @@ K: Est-ce encore le cas aujourd'hui ?
 
 A: Ça n'a pas changé, comme le montre l'exemple du laser TEA, tel que raconté par le sociologue Collins : un laser créé par une équipe Américaine ne peut être reproduit par des Brittaniques (malgré toute la bonne volonté des Américains) jusqu'à ce qu'un Américain traverse l'Atlantique pour le reconstruire lui même.
 
-> Image: [TEA laser circuit](https://en.wikipedia.org/wiki/TEA_laser#/media/File:TEA-Laser-Circuit.jpg) (ça fait bien la transition à la modernité)
+> Image: [TEA laser circuit](https://en.wikipedia.org/wiki/TEA_laser#/media/File:TEA-Laser-Circuit.jpg) (ça fait bien la transition à la modernité)  
+> Crédit : CO2 TEA Laser Electrical Circuit. Peter-Maggs. 6 April 2008. https://commons.wikimedia.org/wiki/File:TEA-Laser-Circuit.jpg
 
 K: J'imagine bien que ces questions prennent des formes très différentes d'une discipline scientifique à l'autre. On a une meilleure prise sur ses échantillons en physique qu'en biologie. Et en astronomie ou en archéologie, par exemple, on travaille avec des observations qu'on ne peut même pas répéter.
+
+> Image: [Fouilles archéologiques](https://en.wikipedia.org/wiki/Archaeology#/media/File:Iowa_archaeology_edgewater.JPG)  
+> Crédit : Excavations at the 3800-year-old Edgewater Park Site, Iowa. Billwhittaker. 1 January 2004. https://commons.wikimedia.org/wiki/File:Iowa_archaeology_edgewater.JPG
 
 A: Oui, une des difficultés de la notion de reproductibilité, c'est arriver à définir consensuellement ce qui vaut reproduction dans tel ou tel cas : Les enjeux ne sont pas les mêmes d'un domaine à l'autre. 
 Pire, il existe des domaines où la notion même de reproductibilité est difficilement cernable : En anthropologie, où l'activité scientifique elle même consiste pour le chercheur à interagir avec son objet d'étude ?
@@ -144,7 +162,10 @@ Attention aux droits d'auteur. L'Inria est assez stricte sur ce point. En absenc
 - [Page Wikipedia](https://fr.wikipedia.org/wiki/Crise_de_la_reproductibilit%C3%A9)
 
 ## Références à mettre dans les ressources du module
-
+### Images
 - Steven Shapin and Simon Schaffer [1985], [Leviathan and the air pump](https://en.wikipedia.org/wiki/Leviathan_and_the_Air-Pump)
 - Harry Collins [1992], [Changing order](https://www.press.uchicago.edu/ucp/books/book/chicago/C/bo3623576.html) (2nd edition), pour l'histoire du [laser TEA](https://en.wikipedia.org/wiki/TEA_laser)
 - Ursula Klein [2019], [Paper tools](http://edition-open-access.de/proceedings/11/13/index.html), in ["Culture and Cognition"](http://edition-open-access.de/proceedings/11/toc.html), eds Jürgen Renn and Matthias Schemmel
+### Ouvrages
+- Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life . Steven Shapin and Simon Schaffer. Princeton University Press (21 janvier 1986)
+- Changing Order: Replication and Induction in Scientific Practice. Harry Collins. University of Chicago Press (15 juin 1992)
